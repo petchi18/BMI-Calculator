@@ -1,0 +1,33 @@
+body{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(218, 198, 19);
+    
+}
+.container{
+    background: rgb(29, 57, 219);
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    width: 500px;
+}
+
+.input{
+    width: 100%;
+    font-size: 20px;
+    height: 30px;
+}
+
+
+.compute-bmi{
+    background-color: rgb(3, 56, 12);
+    color: white;
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 10px;
+}
